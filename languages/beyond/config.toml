@@ -1,4 +1,4 @@
-name = "Beyond rule language"
-grammar = "tree-sitter-beyond"
+name = "Beyond grammar"
+grammar = "beyond"
 path_suffixes = ["rules"]
 line_comments = ["# "]
