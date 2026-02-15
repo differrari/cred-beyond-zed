@@ -1,0 +1,4 @@
+name = "Beyond rule language"
+grammar = "tree-sitter-beyond"
+path_suffixes = ["rules"]
+line_comments = ["# "]

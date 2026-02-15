@@ -1,0 +1,25 @@
+id = "beyondcredlang"
+name = "Cred & Beyond Rule Language Support"
+version = "0.1.0"
+schema_version = 1
+description = "Language Support for the Beyond compiler & Cred language"
+repository = "https://github.com/differrari/cred-beyond-zed"
+authors = ["differrari"]
+themes = []
+icon_themes = []
+languages = ["languages/beyond"]
+capabilities = []
+
+[lib]
+
+[grammars.beyond]
+repository = "https://github.com/differrari/tree-sitter-beyond"
+rev = "527a2fca546aaf7804620c902a463d8d6b51f472"
+
+[language_servers]
+
+[context_servers]
+
+[agent_servers]
+
+[slash_commands]
