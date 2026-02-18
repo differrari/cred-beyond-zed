@@ -7,7 +7,7 @@ repository = "https://github.com/differrari/cred-beyond-zed"
 authors = ["differrari"]
 themes = []
 icon_themes = []
-languages = ["languages/beyond"]
+languages = ["languages/beyond","languages/cred"]
 capabilities = []
 
 [lib]
@@ -15,6 +15,10 @@ capabilities = []
 [grammars.beyond]
 repository = "https://github.com/differrari/tree-sitter-beyond"
 rev = "527a2fca546aaf7804620c902a463d8d6b51f472"
+
+[grammars.cred]
+repository = "https://github.com/differrari/tree-sitter-cred"
+rev = "ee5f56288b48daa453bbe79a60df2b0ada311756"
 
 [language_servers]
 
