@@ -1,0 +1,4 @@
+name = "Cred grammar"
+grammar = "cred"
+path_suffixes = ["cred","redb"]
+line_comments = ["// "]

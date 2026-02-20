@@ -18,7 +18,7 @@ rev = "527a2fca546aaf7804620c902a463d8d6b51f472"
 
 [grammars.cred]
 repository = "https://github.com/differrari/tree-sitter-cred"
-rev = "ee5f56288b48daa453bbe79a60df2b0ada311756"
+rev = "1f0e55391c8790a9604a28404687233db0d7fe5f"
 
 [language_servers]
 
