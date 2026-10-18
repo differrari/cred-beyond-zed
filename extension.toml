@@ -14,11 +14,11 @@ capabilities = []
 
 [grammars.beyond]
 repository = "https://github.com/differrari/tree-sitter-beyond"
-rev = "527a2fca546aaf7804620c902a463d8d6b51f472"
+rev = "a8ad2ff01cac7e475fe921c12fbf46f319705217"
 
 [grammars.cred]
 repository = "https://github.com/differrari/tree-sitter-cred"
-rev = "1f0e55391c8790a9604a28404687233db0d7fe5f"
+rev = "37ac42d889dbe2fb97c4087ba0e5ddf47d00bcae"
 
 [language_servers]
 
